@@ -116,5 +116,6 @@ holding_size_i = weight_i × close_price_i(latest_date)
 - Sortable holdings table — click any column header to sort
 
 ## Screenshots
-![Landing page](image.png)
-![ETF Price Info](image-1.png)
+<img width="2560" height="1286" alt="image" src="https://github.com/user-attachments/assets/5e1954b4-2af3-4f13-b869-3c7246b9157d" />
+<img width="2542" height="2071" alt="image" src="https://github.com/user-attachments/assets/250801dd-9d92-4dbf-9f5f-6f77807161a5" />
+
